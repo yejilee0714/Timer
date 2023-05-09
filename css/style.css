@@ -79,11 +79,10 @@ body {
     font-weight: 700;
 }
 
-.hrs-box p::after,
-.min-box p::after{
+/* .hrs-box::after,
+.min-box::after{
     content: url("../img/dot.png");
-    transform: translateX(30px);
-}
+} */
 
 footer{
     margin: 60px auto;
